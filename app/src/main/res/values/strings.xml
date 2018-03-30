@@ -26,4 +26,5 @@
     <!--Strings realted to Navigation Drawer-->
     <string name="goToGoogle">Ir a Google</string>
     <string name="sendNotification">Enviar notificación</string>
+    <string name="logout">Salir</string>
 </resources>

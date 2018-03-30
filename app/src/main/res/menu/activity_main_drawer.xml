@@ -14,4 +14,9 @@
             android:title="@string/sendNotification" />
     </group>
 
+    <item
+        android:id="@+id/logout"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="@string/logout" />
+
 </menu>
